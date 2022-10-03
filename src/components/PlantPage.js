@@ -6,7 +6,6 @@ import Search from "./Search";
 function PlantPage() {
   return (
     <main>
-      <NewPlantForm />
       <Search />
       <PlantList />
     </main>
